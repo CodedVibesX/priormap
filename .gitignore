@@ -1,0 +1,13 @@
+node_modules/
+out/
+leads/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+*.log
+.env*
+BUILD_LOG.md
+RESEARCH.md
+_probes/
+data/raw/
+audit/*.full.json

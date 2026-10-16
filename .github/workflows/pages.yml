@@ -1,0 +1,66 @@
+name: test and deploy
+
+# Rebuilds the card from the committed snapshots and publishes it. npm test is the gate: it reruns the whole engine on
+# the real data and fails the build if a prescriber lands in two accounts, a weak drug passes the prior auth gate, a
+# second phone appears without a disagreement, the phone eval drops below 99% caught or flags a clean account, or any
+# number in the README no longer matches the run, or the committed card no longer matches a fresh rebuild. A green badge means those still hold, not just that the site compiled.
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Test (unit tests, end to end fixture, invariants and eval on the real data)
+        run: npm test
+
+      - name: Rebuild from the committed snapshots, and fail if the committed card or sample is stale
+        run: |
+          npm start
+          git diff --exit-code app/card.json docs/sample_hubspot_companies.csv
+
+      - name: Build static site
+        run: npm run build
+        env:
+          GITHUB_PAGES: "true"
+
+      - name: Keep _next/ from being stripped by Jekyll
+        run: touch out/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,58 @@
+{
+  "note": "Practices forus.com names as customers in its own stories, with the Location line each story prints. A match marks the account as an expansion, not a cold lead. Patterns match the Medicare group name or the prescriber's practice name, case insensitive. A customer can also carry the NPIs of its prescribers, for a practice that bills without a Medicare group.",
+  "checked": "Oct 14 2026",
+  "customers": [
+    {
+      "name": "Modern Migraine MD",
+      "pattern": "MODERN MIGRAINE",
+      "where": "New York, NY",
+      "source": "https://www.forus.com/stories/how-modern-migraine-md-enables-providers-to-prescribe-on-clinical-judgement-with-forus",
+      "npis": [
+        "1437205051"
+      ],
+      "npiSource": "The practice's own site names its neurologist at 363 7th Avenue, 18th Floor, New York, the address the NPI registry gives for NPI 1437205051: https://www.modernmigrainemd.com (checked Oct 16 2026)"
+    },
+    {
+      "name": "DOCS Dermatology",
+      "pattern": "DOCS DERMATOLOGY",
+      "where": "Midwest",
+      "source": "https://www.forus.com/stories/how-docs-dermatology-accelerated-medication-access-across-140-locations"
+    },
+    {
+      "name": "Aspire Allergy and Sinus",
+      "pattern": "ASPIRE ALLERGY",
+      "where": "Texas, Florida, Arizona, New Mexico, and Colorado",
+      "source": "https://www.forus.com/stories/from-weeks-to-hours-how-aspire-allergy-and-sinus-automated-prior-authorizations-across-63-offices"
+    },
+    {
+      "name": "Optima Dermatology",
+      "pattern": "OPTIMA DERMATOLOGY",
+      "where": "Indiana, Maine, New Hampshire, and Ohio",
+      "source": "https://www.forus.com/stories/how-optima-dermatology-reduced-administrative-burden-at-scale-to-improve-patient-care"
+    },
+    {
+      "name": "Goodman Dermatology",
+      "pattern": "GOODMAN DERMATOLOGY",
+      "where": "North Atlanta, GA",
+      "source": "https://www.forus.com/stories/how-goodman-dermatology-helps-patients-access-medications-after-denials"
+    },
+    {
+      "name": "Virginia Rheumatology Clinic",
+      "pattern": "VIRGINIA RHEUMATOLOGY",
+      "where": "Chesapeake, VA",
+      "source": "https://www.forus.com/stories/helping-patients-move-again-how-virginia-rheumatology-clinic-accelerates-biologic-access"
+    },
+    {
+      "name": "Family Allergy and Asthma",
+      "pattern": "FAMILY ALLERGY",
+      "where": "Midwest and East Coast",
+      "source": "https://www.forus.com/stories/family-allergy-and-asthmas-prior-authorization-transformation"
+    },
+    {
+      "name": "Nimbus Health",
+      "pattern": "NIMBUS HEALTH",
+      "where": "Arizona, Georgia, and more",
+      "source": "https://www.forus.com/stories/how-nimbus-health-prescribes-complex-medications-at-scale-with-forus"
+    }
+  ]
+}

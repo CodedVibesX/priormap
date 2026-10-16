@@ -1,0 +1,209 @@
+{
+ "bdrAtAudit": {
+  "ok": 55,
+  "n": 69,
+  "unclear": 1,
+  "low": 0.6877573759423549,
+  "high": 0.875107800001062,
+  "misses": {
+   "hospital_academic_or_system": 5,
+   "closed_or_moved": 6,
+   "not_a_practice": 2,
+   "payer_or_corporate_owned": 1
+  },
+  "sellable": {
+   "independent_specialty": 40,
+   "independent_primary_or_multispecialty": 15
+  },
+  "claims": {
+   "ok": 39677,
+   "n": 46135
+  }
+ },
+ "bdrAtAuditGroups": {
+  "ok": 33,
+  "n": 39,
+  "unclear": 0,
+  "low": 0.7027023013426569,
+  "high": 0.9275262615494854,
+  "misses": {
+   "hospital_academic_or_system": 2,
+   "closed_or_moved": 4
+  },
+  "sellable": {
+   "independent_specialty": 26,
+   "independent_primary_or_multispecialty": 7
+  },
+  "claims": {
+   "ok": 30690,
+   "n": 36066
+  }
+ },
+ "bdrAtAuditSolos": {
+  "ok": 22,
+  "n": 30,
+  "unclear": 1,
+  "low": 0.5555169795568831,
+  "high": 0.8581750444608938,
+  "misses": {
+   "hospital_academic_or_system": 3,
+   "closed_or_moved": 2,
+   "not_a_practice": 2,
+   "payer_or_corporate_owned": 1
+  },
+  "sellable": {
+   "independent_primary_or_multispecialty": 8,
+   "independent_specialty": 14
+  },
+  "claims": {
+   "ok": 8987,
+   "n": 10069
+  }
+ },
+ "bdrNow": {
+  "ok": 50,
+  "n": 58,
+  "unclear": 1,
+  "low": 0.750738501271678,
+  "high": 0.9284159837351781,
+  "misses": {
+   "hospital_academic_or_system": 2,
+   "closed_or_moved": 5,
+   "not_a_practice": 1
+  },
+  "sellable": {
+   "independent_specialty": 38,
+   "independent_primary_or_multispecialty": 12
+  },
+  "claims": {
+   "ok": 39358,
+   "n": 44760
+  }
+ },
+ "leftBdr": {
+  "ok": 5,
+  "n": 11,
+  "unclear": 0,
+  "low": 0.21270957543988045,
+  "high": 0.7199122443100118,
+  "misses": {
+   "hospital_academic_or_system": 3,
+   "not_a_practice": 1,
+   "closed_or_moved": 1,
+   "payer_or_corporate_owned": 1
+  },
+  "sellable": {
+   "independent_specialty": 2,
+   "independent_primary_or_multispecialty": 3
+  },
+  "claims": {
+   "ok": 319,
+   "n": 1375
+  }
+ },
+ "bdr_top": {
+  "ok": 24,
+  "n": 30,
+  "unclear": 0,
+  "low": 0.6269395261897256,
+  "high": 0.9049502189759876,
+  "misses": {
+   "hospital_academic_or_system": 3,
+   "closed_or_moved": 3
+  },
+  "sellable": {
+   "independent_specialty": 22,
+   "independent_primary_or_multispecialty": 2
+  },
+  "claims": {
+   "ok": 37472,
+   "n": 43108
+  }
+ },
+ "bdr_random": {
+  "ok": 31,
+  "n": 39,
+  "unclear": 1,
+  "low": 0.6446572703687138,
+  "high": 0.8922040980208888,
+  "misses": {
+   "hospital_academic_or_system": 2,
+   "closed_or_moved": 3,
+   "not_a_practice": 2,
+   "payer_or_corporate_owned": 1
+  },
+  "sellable": {
+   "independent_primary_or_multispecialty": 13,
+   "independent_specialty": 18
+  },
+  "claims": {
+   "ok": 2205,
+   "n": 3027
+  }
+ },
+ "enterprise_by_address": {
+  "ok": 2,
+  "n": 15,
+  "unclear": 0,
+  "low": 0.0373604698913593,
+  "high": 0.3788249920651624,
+  "misses": {
+   "closed_or_moved": 6,
+   "safety_net_clinic": 2,
+   "hospital_academic_or_system": 5
+  },
+  "sellable": {
+   "independent_specialty": 2
+  },
+  "claims": {
+   "ok": 46,
+   "n": 1340
+  }
+ },
+ "ae": {
+  "ok": 0,
+  "n": 10,
+  "unclear": 0,
+  "low": 0,
+  "high": 0.2775401687666166,
+  "misses": {
+   "not_a_practice": 1,
+   "hospital_academic_or_system": 5,
+   "large_physician_group": 4
+  },
+  "sellable": {},
+  "claims": {
+   "ok": 0,
+   "n": 6423
+  }
+ },
+ "soloLabels": {
+  "bdr_top": {
+   "independent_primary_or_multispecialty": 2,
+   "independent_specialty": 4,
+   "hospital_academic_or_system": 1
+  },
+  "bdr_random": {
+   "hospital_academic_or_system": 2,
+   "closed_or_moved": 2,
+   "independent_specialty": 10,
+   "independent_primary_or_multispecialty": 6,
+   "not_a_practice": 2,
+   "payer_or_corporate_owned": 1,
+   "unclear": 1
+  },
+  "enterprise_by_address": {
+   "closed_or_moved": 6,
+   "independent_specialty": 2,
+   "hospital_academic_or_system": 3
+  },
+  "ae": {}
+ },
+ "groupsWithSources": {
+  "withSources": 53,
+  "groups": 53
+ },
+ "agreedFirstPass": 87,
+ "tiebreaks": 8,
+ "total": 95
+}

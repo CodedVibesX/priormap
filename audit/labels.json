@@ -1,0 +1,509 @@
+{
+ "note": "Final audit labels for group practices: one AI researcher, one skeptic, a tiebreak where they disagreed. Sources per label are in docs/audit_dev.csv and docs/audit_heldout.csv. Labels for prescribers who bill alone are not published.",
+ "labels": [
+  {
+   "sample": "dev",
+   "id": "org:7517858319",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:5395788327",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:1052202744",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:2769461045",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6103810791",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6709809452",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:5597710533",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:3072836709",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:3173576527",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:4587887583",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:0345618088",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9537320593",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:3779761705",
+   "label": "closed_or_moved",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:8022021732",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:7214972058",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:7214928035",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:1254245038",
+   "label": "closed_or_moved",
+   "how": "tiebreak"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6204972599",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:8729271689",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9234417452",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6608037320",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:2365511284",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:8729155239",
+   "label": "closed_or_moved",
+   "how": "tiebreak"
+  },
+  {
+   "sample": "dev",
+   "id": "org:4183750656",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9133221666",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:8224033535",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6002706231",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6305839150",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9638187842",
+   "label": "closed_or_moved",
+   "how": "tiebreak"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9335120468",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:4385778570",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:7618294687",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9032173430",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6608855168",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:2062302649",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6002803533",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:5698870517",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:7012294184",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:5890842132",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:8426961541",
+   "label": "safety_net_clinic",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:7618917907",
+   "label": "safety_net_clinic",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:0446248033",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6507922358",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:7315836780",
+   "label": "not_a_practice",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9032367453",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:9032103056",
+   "label": "large_physician_group",
+   "how": "tiebreak"
+  },
+  {
+   "sample": "dev",
+   "id": "org:4688563000",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:2567464308",
+   "label": "large_physician_group",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6709897960",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:1759353501",
+   "label": "large_physician_group",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:8325937014",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:0840604310",
+   "label": "large_physician_group",
+   "how": "agreed"
+  },
+  {
+   "sample": "dev",
+   "id": "org:6800972589",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:5496640625",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:1951613272",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:3274684949",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:3678622917",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:5799697223",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:0143460634",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:7810229259",
+   "label": "not_a_practice",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:3678551736",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:5597901868",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:5395783955",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:8921143751",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:6103141619",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:7517397045",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:8325939333",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:0345402012",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:0749375442",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:2769458090",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:9335137447",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:8224040696",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:4880011865",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:4587820683",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:9436583382",
+   "label": "independent_primary_or_multispecialty",
+   "how": "tiebreak"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:0941539183",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:1254424211",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:4082090923",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:4587714985",
+   "label": "independent_primary_or_multispecialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:6800080649",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:9335511443",
+   "label": "not_a_practice",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:8820048085",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:0547264970",
+   "label": "independent_specialty",
+   "how": "agreed"
+  },
+  {
+   "sample": "heldout",
+   "id": "org:9032438544",
+   "label": "hospital_academic_or_system",
+   "how": "agreed"
+  }
+ ]
+}

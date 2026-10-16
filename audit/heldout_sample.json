@@ -1,0 +1,887 @@
+[
+ {
+  "group": "bdr_heldout",
+  "key": "org:5496640625",
+  "name": "Dermatology Associates of Rochester, PC",
+  "queue": "BDR",
+  "reason": "12 clinicians enrolled in the Medicare group",
+  "rank": 181,
+  "tier": "B",
+  "site": "100 WHITE SPRUCE BLVD, ROCHESTER, NY 14623",
+  "area": "Upstate: Finger Lakes",
+  "medicareGroupSize": 12,
+  "phone": "5852720700",
+  "prescribers": [
+   "Anitha Shrikhande, MD, Allergy/ Immunology, NPI 1770788911",
+   "Kassie Haitz, M.D., Dermatology, NPI 1316180995",
+   "John Tu, MD, Dermatology, NPI 1508897083",
+   "Malgorzata Sass, N.P., Nurse Practitioner, NPI 1477646164",
+   "Brittane Fetterman, NP, Nurse Practitioner, NPI 1275131807",
+   "Danielle Rawleigh, NP, Nurse Practitioner, NPI 1477173193"
+  ],
+  "morePrescribers": 1,
+  "claims": 303,
+  "topDrugs": [
+   "dupilumab",
+   "adalimumab",
+   "apremilast"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:1951613272",
+  "name": "J Schwartz MD PLLC",
+  "queue": "BDR",
+  "reason": "5 clinicians enrolled in the Medicare group",
+  "rank": 152,
+  "tier": "B",
+  "site": "137 HOOSICK ST, TROY, NY 12180",
+  "area": "Upstate: Capital Region",
+  "medicareGroupSize": 5,
+  "phone": "5182744305",
+  "prescribers": [
+   "Joseph Schwartz, ?, Dermatology, NPI 1104865823",
+   "Katherine Lampert, PA-C, Physician Assistant, NPI 1932552262",
+   "Maura Corbett, PA-C, Physician Assistant, NPI 1225503535",
+   "Karen Royston, FNP, Nurse Practitioner, NPI 1134144751",
+   "Megan Mooney, PA, Physician Assistant, NPI 1417487802"
+  ],
+  "morePrescribers": 0,
+  "claims": 404,
+  "topDrugs": [
+   "dupilumab",
+   "risankizumab",
+   "adalimumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:3274684949",
+  "name": "Oldendorf Medical Services PLLC",
+  "queue": "BDR",
+  "reason": "7 clinicians enrolled in the Medicare group",
+  "rank": 1175,
+  "tier": "C",
+  "site": "407 ALBANY SHAKER RD SUITE 100, LOUDONVILLE, NY 12211",
+  "area": "Upstate: Capital Region",
+  "medicareGroupSize": 7,
+  "phone": "5184351300",
+  "prescribers": [
+   "Mark Oldendorf, MD, Internal Medicine, NPI 1427147800"
+  ],
+  "morePrescribers": 0,
+  "claims": 12,
+  "topDrugs": [
+   "erenumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Manhattan",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:3678622917",
+  "name": "Jai K Jalaj MD PC",
+  "queue": "BDR",
+  "reason": "2 clinicians enrolled in the Medicare group",
+  "rank": 991,
+  "tier": "C",
+  "site": "66 MIDDLEBUSH RD M206, WAPPINGERS FALLS, NY 12590",
+  "area": "Hudson Valley: Dutchess",
+  "medicareGroupSize": 2,
+  "phone": "8458973210",
+  "prescribers": [
+   "Jai Jalaj, MD, Internal Medicine, NPI 1295745784"
+  ],
+  "morePrescribers": 0,
+  "claims": 14,
+  "topDrugs": [
+   "benralizumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Queens",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:5799697223",
+  "name": "Balm of Gilead Medical Office, PC",
+  "queue": "BDR",
+  "reason": "4 clinicians enrolled in the Medicare group",
+  "rank": 255,
+  "tier": "B",
+  "site": "4626 WHITE PLAINS RD, BRONX, NY 10470",
+  "area": "New York City: Bronx",
+  "medicareGroupSize": 4,
+  "phone": "7185474077",
+  "prescribers": [
+   "Julius Nwosu, PA, Physician Assistant, NPI 1508839267"
+  ],
+  "morePrescribers": 0,
+  "claims": 195,
+  "topDrugs": [
+   "ubrogepant",
+   "rimegepant",
+   "atogepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:0143460634",
+  "name": "North Ocean Medical Group P.C.",
+  "queue": "BDR",
+  "reason": "3 clinicians enrolled in the Medicare group",
+  "rank": 949,
+  "tier": "C",
+  "site": "152 N OCEAN AVE, PATCHOGUE, NY 11772",
+  "area": "Long Island: Suffolk",
+  "medicareGroupSize": 3,
+  "phone": "6319138239",
+  "prescribers": [
+   "Adeel Iqbal, D.O., Internal Medicine, NPI 1780996983"
+  ],
+  "morePrescribers": 0,
+  "claims": 15,
+  "topDrugs": [
+   "atogepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:7810229259",
+  "name": "Maine Medical Consultants PC",
+  "queue": "BDR",
+  "reason": "46 clinicians enrolled in the Medicare group",
+  "rank": 1192,
+  "tier": "C",
+  "site": ", BUFFALO, NY 14209",
+  "area": "Upstate: Western New York",
+  "medicareGroupSize": 46,
+  "phone": "2075188869",
+  "prescribers": [
+   "Cassandra Williams, MD, Internal Medicine, NPI 1558546820"
+  ],
+  "morePrescribers": 0,
+  "claims": 12,
+  "topDrugs": [
+   "tofacitinib"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Queens",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:3678551736",
+  "name": "Albany ENT and Allergy Services PC",
+  "queue": "BDR",
+  "reason": "46 clinicians enrolled in the Medicare group",
+  "rank": 520,
+  "tier": "C",
+  "site": "123 EVERETT RD, ALBANY, NY 12205",
+  "area": "Upstate: Capital Region",
+  "medicareGroupSize": 46,
+  "phone": "5187012000",
+  "prescribers": [
+   "Robert Engle, M.D., Otolaryngology, NPI 1437449907",
+   "Nora Perkins, M.D., Otolaryngology, NPI 1760641096",
+   "Lauren Siy-Keane, RPA-C, Physician Assistant, NPI 1558643486"
+  ],
+  "morePrescribers": 0,
+  "claims": 62,
+  "topDrugs": [
+   "dupilumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Long Island: Suffolk",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Brooklyn",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:5597901868",
+  "name": "St Joseph's Medical Practice PC",
+  "queue": "BDR",
+  "reason": "28 clinicians enrolled in the Medicare group",
+  "rank": 746,
+  "tier": "C",
+  "site": "127 S BROADWAY, YONKERS, NY 10701",
+  "area": "Hudson Valley: Westchester",
+  "medicareGroupSize": 28,
+  "phone": "9143787584",
+  "prescribers": [
+   "Fadi Sayegh, MD, Family Practice, NPI 1447647607",
+   "Evelyn Batres, FNP, Nurse Practitioner, NPI 1053076596"
+  ],
+  "morePrescribers": 0,
+  "claims": 28,
+  "topDrugs": [
+   "adalimumab",
+   "upadacitinib"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Queens",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:5395783955",
+  "name": "Garden City Dermatology, P.C.",
+  "queue": "BDR",
+  "reason": "4 clinicians enrolled in the Medicare group",
+  "rank": 280,
+  "tier": "B",
+  "site": "901 STEWART AVE, GARDEN CITY, NY 11530",
+  "area": "Long Island: Nassau",
+  "medicareGroupSize": 4,
+  "phone": "5162273377",
+  "prescribers": [
+   "Lotika Singh, M.D., Dermatology, NPI 1023342748",
+   "Elizabeth Munnie, RPA-C, Physician Assistant, NPI 1396968525",
+   "Theodore Daly, M.D., Dermatology, NPI 1518965441"
+  ],
+  "morePrescribers": 0,
+  "claims": 169,
+  "topDrugs": [
+   "apremilast",
+   "dupilumab",
+   "adalimumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:8921143751",
+  "name": "Family Medical Care of Bayshore, PC",
+  "queue": "BDR",
+  "reason": "3 clinicians enrolled in the Medicare group",
+  "rank": 1286,
+  "tier": "C",
+  "site": "1745 UNION BLVD, BAY SHORE, NY 11706",
+  "area": "Long Island: Suffolk",
+  "medicareGroupSize": 3,
+  "phone": "6313285560",
+  "prescribers": [
+   "Carla Canavire Weber, DO, Family Practice, NPI 1578632899"
+  ],
+  "morePrescribers": 0,
+  "claims": 11,
+  "topDrugs": [
+   "ubrogepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Upstate: Capital Region",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:6103141619",
+  "name": "Western New York Dermatology PLLC",
+  "queue": "BDR",
+  "reason": "15 clinicians enrolled in the Medicare group",
+  "rank": 134,
+  "tier": "A",
+  "site": "297 SPINDRIFT DR, WILLIAMSVILLE, NY 14221",
+  "area": "Upstate: Western New York",
+  "medicareGroupSize": 15,
+  "phone": "7168312600",
+  "prescribers": [
+   "Peter Mckenna, P.A., Physician Assistant, NPI 1417244773",
+   "Kaity Molenda, ?, Physician Assistant, NPI 1982183661",
+   "Michael Nazareth, M.D./Ph.D., Dermatology, NPI 1467614172",
+   "Jessica Pfeifer, FNP, Nurse Practitioner, NPI 1659949089",
+   "Jessica Mancuso, FNP, Nurse Practitioner, NPI 1437679834",
+   "Carrie Trabucco, RPA-C, Physician Assistant, NPI 1689013369"
+  ],
+  "morePrescribers": 2,
+  "claims": 462,
+  "topDrugs": [
+   "dupilumab",
+   "adalimumab",
+   "apremilast"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:7517397045",
+  "name": "LI Medical Group PLLC",
+  "queue": "BDR",
+  "reason": "3 clinicians enrolled in the Medicare group",
+  "rank": 477,
+  "tier": "C",
+  "site": "2090 JERICHO TPKE, NEW HYDE PARK, NY 11040",
+  "area": "Long Island: Nassau",
+  "medicareGroupSize": 3,
+  "phone": "5163527828",
+  "prescribers": [
+   "Jonathan Aronbayev, M.D, Internal Medicine, NPI 1750318721"
+  ],
+  "morePrescribers": 0,
+  "claims": 71,
+  "topDrugs": [
+   "rimegepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Long Island: Suffolk",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:8325939333",
+  "name": "David E Bank MD PC",
+  "queue": "BDR",
+  "reason": "3 clinicians enrolled in the Medicare group",
+  "rank": 1197,
+  "tier": "C",
+  "site": "359 E MAIN ST 4G E, MOUNT KISCO, NY 10549",
+  "area": "Hudson Valley: Westchester",
+  "medicareGroupSize": 3,
+  "phone": "9142413003",
+  "prescribers": [
+   "David Bank, MD, Dermatology, NPI 1558337667"
+  ],
+  "morePrescribers": 0,
+  "claims": 12,
+  "topDrugs": [
+   "apremilast"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Queens",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:0345402012",
+  "name": "Thomas P Mathew MD PC",
+  "queue": "BDR",
+  "reason": "2 clinicians enrolled in the Medicare group",
+  "rank": 986,
+  "tier": "C",
+  "site": "915 HILLSIDE AVE, NEW HYDE PARK, NY 11040",
+  "area": "Long Island: Nassau",
+  "medicareGroupSize": 2,
+  "phone": "7183437600",
+  "prescribers": [
+   "Thomas Mathew, MD, Internal Medicine, NPI 1245282136"
+  ],
+  "morePrescribers": 0,
+  "claims": 14,
+  "topDrugs": [
+   "ubrogepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:0749375442",
+  "name": "Neurology Associates of Rochester PC",
+  "queue": "BDR",
+  "reason": "7 clinicians enrolled in the Medicare group",
+  "rank": 162,
+  "tier": "B",
+  "site": "20 HAGEN DR SUITE 300, ROCHESTER, NY 14625",
+  "area": "Upstate: Finger Lakes",
+  "medicareGroupSize": 7,
+  "phone": "5855867550",
+  "prescribers": [
+   "Ryan Evans, M.D., Neurology, NPI 1245242981",
+   "Erica Patrick, M.D., Neurology, NPI 1619172327",
+   "Amelia Caraway, PA-C, Physician Assistant, NPI 1386051688",
+   "Caterine Garcia-Ruderman, FNP-BC, Nurse Practitioner, NPI 1467704239"
+  ],
+  "morePrescribers": 0,
+  "claims": 362,
+  "topDrugs": [
+   "erenumab",
+   "rimegepant",
+   "ubrogepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Brooklyn",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Hudson Valley: Westchester",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:2769458090",
+  "name": "Modern Medical PC",
+  "queue": "BDR",
+  "reason": "7 clinicians enrolled in the Medicare group",
+  "rank": 989,
+  "tier": "C",
+  "site": "225 BROADWAY SUITE 910, NEW YORK, NY 10007",
+  "area": "New York City: Manhattan",
+  "medicareGroupSize": 7,
+  "phone": "2125715000",
+  "prescribers": [
+   "Ilya Kleyn, MD, Internal Medicine, NPI 1851327092"
+  ],
+  "morePrescribers": 0,
+  "claims": 14,
+  "topDrugs": [
+   "ubrogepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Long Island: Suffolk",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:9335137447",
+  "name": "Rubinshteyn Medical PC",
+  "queue": "BDR",
+  "reason": "3 clinicians enrolled in the Medicare group",
+  "rank": 623,
+  "tier": "C",
+  "site": "9713 64TH RD, REGO PARK, NY 11374",
+  "area": "New York City: Queens",
+  "medicareGroupSize": 3,
+  "phone": "7188964090",
+  "prescribers": [
+   "Yanina Rubinshteyn, M.D, Family Practice, NPI 1285680728"
+  ],
+  "morePrescribers": 0,
+  "claims": 42,
+  "topDrugs": [
+   "rimegepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Brooklyn",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:8224040696",
+  "name": "Yasemin Osman MD PLLC",
+  "queue": "BDR",
+  "reason": "2 clinicians enrolled in the Medicare group",
+  "rank": 997,
+  "tier": "C",
+  "site": "6040 MARATHON PKWY, DOUGLASTON, NY 11362",
+  "area": "New York City: Queens",
+  "medicareGroupSize": 2,
+  "phone": "7186313778",
+  "prescribers": [
+   "Fiona Blanco, M.D., Dermatology, NPI 1194768002"
+  ],
+  "morePrescribers": 0,
+  "claims": 14,
+  "topDrugs": [
+   "dupilumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Manhattan",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Long Island: Nassau",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Brooklyn",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:4880011865",
+  "name": "Frank Ocasio MD PC",
+  "queue": "BDR",
+  "reason": "3 clinicians enrolled in the Medicare group",
+  "rank": 456,
+  "tier": "C",
+  "site": "202 E MAIN ST SUITE 201, HUNTINGTON, NY 11743",
+  "area": "Long Island: Suffolk",
+  "medicareGroupSize": 3,
+  "phone": "6315515130",
+  "prescribers": [
+   "Jacques Winter, MD, Neurology, NPI 1750469052"
+  ],
+  "morePrescribers": 0,
+  "claims": 78,
+  "topDrugs": [
+   "erenumab",
+   "rimegepant",
+   "ubrogepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Brooklyn",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:4587820683",
+  "name": "Anna K Imperato MD PLLC",
+  "queue": "BDR",
+  "reason": "2 clinicians enrolled in the Medicare group",
+  "rank": 230,
+  "tier": "B",
+  "site": "45 ORCHARD ST, MANHASSET, NY 11030",
+  "area": "Long Island: Nassau",
+  "medicareGroupSize": 2,
+  "phone": "5163651700",
+  "prescribers": [
+   "Anna Imperato, M.D., Rheumatology, NPI 1104880780"
+  ],
+  "morePrescribers": 0,
+  "claims": 226,
+  "topDrugs": [
+   "apremilast",
+   "secukinumab",
+   "guselkumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Long Island: Suffolk",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:9436583382",
+  "name": "Huang Medical Care P.C.",
+  "queue": "BDR",
+  "reason": "2 clinicians enrolled in the Medicare group",
+  "rank": 820,
+  "tier": "C",
+  "site": "4620 3RD AVE, BROOKLYN, NY 11220",
+  "area": "New York City: Brooklyn",
+  "medicareGroupSize": 2,
+  "phone": "7184924109",
+  "prescribers": [
+   "Claudia Pineda-Muyir, RPA-C, Physician Assistant, NPI 1114166980"
+  ],
+  "morePrescribers": 0,
+  "claims": 24,
+  "topDrugs": [
+   "rimegepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Queens",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Brooklyn",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Manhattan",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Manhattan",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Brooklyn",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:0941539183",
+  "name": "Comprehensive Pain Management and Spine Care PLLC",
+  "queue": "BDR",
+  "reason": "2 clinicians enrolled in the Medicare group",
+  "rank": 487,
+  "tier": "C",
+  "site": "75 MAIDEN LN RM 1206, NEW YORK, NY 10038",
+  "area": "New York City: Manhattan",
+  "medicareGroupSize": 2,
+  "phone": "2129956495",
+  "prescribers": [
+   "Christine Runco, ?, Nurse Practitioner, NPI 1508385840",
+   "Chaim Mandelbaum, M.D., Interventional Pain Management, NPI 1215075908"
+  ],
+  "morePrescribers": 0,
+  "claims": 69,
+  "topDrugs": [
+   "rimegepant",
+   "ubrogepant",
+   "galcanezumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Queens",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Upstate: Southern Tier",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:1254424211",
+  "name": "Ted J Triana DO PC",
+  "queue": "BDR",
+  "reason": "5 clinicians enrolled in the Medicare group",
+  "rank": 424,
+  "tier": "C",
+  "site": "311 GREEN ST, SYRACUSE, NY 13203",
+  "area": "Upstate: Central New York",
+  "medicareGroupSize": 5,
+  "phone": "3154251431",
+  "prescribers": [
+   "Carmen Federico, D.O., Family Practice, NPI 1851305064",
+   "Ted Triana, D.O., Family Practice, NPI 1902892482"
+  ],
+  "morePrescribers": 0,
+  "claims": 88,
+  "topDrugs": [
+   "ubrogepant",
+   "rimegepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Upstate: Western New York",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:4082090923",
+  "name": "Flower City Dermatology PC",
+  "queue": "BDR",
+  "reason": "3 clinicians enrolled in the Medicare group",
+  "rank": 549,
+  "tier": "C",
+  "site": "200 CANAL VIEW BLVD SUITE 100, ROCHESTER, NY 14623",
+  "area": "Upstate: Finger Lakes",
+  "medicareGroupSize": 3,
+  "phone": "5854448422",
+  "prescribers": [
+   "Kathryn Somers, M.D., Dermatology, NPI 1558637314"
+  ],
+  "morePrescribers": 0,
+  "claims": 55,
+  "topDrugs": [
+   "dupilumab",
+   "adalimumab",
+   "secukinumab"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Hudson Valley: Westchester",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "Long Island: Nassau",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:4587714985",
+  "name": "Vladimir Zelenko MD PC",
+  "queue": "BDR",
+  "reason": "12 clinicians enrolled in the Medicare group",
+  "rank": 1183,
+  "tier": "C",
+  "site": "3 HAMASPIK WAY UNIT 11, MONROE, NY 10950",
+  "area": "Hudson Valley: Orange",
+  "medicareGroupSize": 12,
+  "phone": "8457820000",
+  "prescribers": [
+   "Dov Markowitz, PA, Physician Assistant, NPI 1295080653"
+  ],
+  "morePrescribers": 0,
+  "claims": 12,
+  "topDrugs": [
+   "etanercept"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:6800080649",
+  "name": "Kidney and Hypertension Physician PC",
+  "queue": "BDR",
+  "reason": "4 clinicians enrolled in the Medicare group",
+  "rank": 193,
+  "tier": "B",
+  "site": "53 ELIZABETH DR, LOCKPORT, NY 14094",
+  "area": "Upstate: Western New York",
+  "medicareGroupSize": 4,
+  "phone": "7166500373",
+  "prescribers": [
+   "Rajitha Mallela, MBBS, Rheumatology, NPI 1194038661",
+   "Janet Wysocki Freer, AGPCNP, Nurse Practitioner, NPI 1063998607"
+  ],
+  "morePrescribers": 0,
+  "claims": 282,
+  "topDrugs": [
+   "adalimumab",
+   "etanercept",
+   "apremilast"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:9335511443",
+  "name": "Sciometrix Inc",
+  "queue": "BDR",
+  "reason": "46 clinicians enrolled in the Medicare group",
+  "rank": 482,
+  "tier": "C",
+  "site": "1060 BROADWAY SUITE 100, MENANDS, NY 12204",
+  "area": "Upstate: Capital Region",
+  "medicareGroupSize": 46,
+  "phone": "2483693315",
+  "prescribers": [
+   "Elina Yushuvayev, MD, Internal Medicine, NPI 1093002339"
+  ],
+  "morePrescribers": 0,
+  "claims": 70,
+  "topDrugs": [
+   "ubrogepant",
+   "atogepant",
+   "rimegepant"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "solo": true,
+  "area": "New York City: Manhattan",
+  "queue": "BDR"
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:8820048085",
+  "name": "Gastroenterology Associates LLP",
+  "queue": "BDR",
+  "reason": "28 clinicians enrolled in the Medicare group",
+  "rank": 142,
+  "tier": "B",
+  "site": "60 MAPLE RD SUITE 1, WILLIAMSVILLE, NY 14221",
+  "area": "Upstate: Western New York",
+  "medicareGroupSize": 28,
+  "phone": "7166265250",
+  "prescribers": [
+   "Mary Ciechoski, ANP, Nurse Practitioner, NPI 1740245992",
+   "David Garson, M.D., Gastroenterology, NPI 1457337388",
+   "Siddhartha Shah, M.D., Gastroenterology, NPI 1841276763",
+   "Susan Kreppel, NP, Nurse Practitioner, NPI 1376748640",
+   "Naima Mian, D.O., Gastroenterology, NPI 1609066224",
+   "Ann Lillis, ANP, Nurse Practitioner, NPI 1609852607"
+  ],
+  "morePrescribers": 6,
+  "claims": 448,
+  "topDrugs": [
+   "adalimumab",
+   "ustekinumab",
+   "upadacitinib"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:0547264970",
+  "name": "Suzanne Sirota Rozenberg, Do,Pc",
+  "queue": "BDR",
+  "reason": "2 clinicians enrolled in the Medicare group",
+  "rank": 467,
+  "tier": "C",
+  "site": "11 IRVING PL, WOODMERE, NY 11598",
+  "area": "Long Island: Nassau",
+  "medicareGroupSize": 2,
+  "phone": "5162955570",
+  "prescribers": [
+   "Suzanne Sirota Rozenberg, do, Dermatology, NPI 1841245859"
+  ],
+  "morePrescribers": 0,
+  "claims": 74,
+  "topDrugs": [
+   "dupilumab",
+   "adalimumab",
+   "apremilast"
+  ]
+ },
+ {
+  "group": "bdr_heldout",
+  "key": "org:9032438544",
+  "name": "Saratoga Regional Medical , P.C",
+  "queue": "BDR",
+  "reason": "23 clinicians enrolled in the Medicare group",
+  "rank": 958,
+  "tier": "C",
+  "site": "59 MYRTLE ST, SARATOGA SPRINGS, NY 12866",
+  "area": "Upstate: Capital Region",
+  "medicareGroupSize": 23,
+  "phone": "5185872400",
+  "prescribers": [
+   "Rodney Ying, M.D., Pulmonary Disease, NPI 1750309860"
+  ],
+  "morePrescribers": 0,
+  "claims": 15,
+  "topDrugs": [
+   "mepolizumab"
+  ]
+ }
+]

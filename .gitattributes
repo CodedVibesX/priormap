@@ -1,0 +1,3 @@
+# Generated CSVs keep their CRLF line ends on every OS, so CI can diff a fresh rebuild against the committed copy.
+*.csv -text
+*.json text eol=lf

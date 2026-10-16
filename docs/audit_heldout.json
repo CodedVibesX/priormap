@@ -1,0 +1,129 @@
+{
+ "bdrAtAudit": {
+  "ok": 52,
+  "n": 59,
+  "unclear": 1,
+  "low": 0.7747612422658494,
+  "high": 0.94132491722086,
+  "misses": {
+   "not_a_practice": 4,
+   "hospital_academic_or_system": 2,
+   "closed_or_moved": 1
+  },
+  "sellable": {
+   "independent_specialty": 28,
+   "independent_primary_or_multispecialty": 24
+  },
+  "claims": {
+   "ok": 5656,
+   "n": 6100
+  }
+ },
+ "bdrAtAuditGroups": {
+  "ok": 27,
+  "n": 31,
+  "unclear": 0,
+  "low": 0.7114724304561464,
+  "high": 0.9486579883535524,
+  "misses": {
+   "not_a_practice": 2,
+   "hospital_academic_or_system": 2
+  },
+  "sellable": {
+   "independent_specialty": 16,
+   "independent_primary_or_multispecialty": 11
+  },
+  "claims": {
+   "ok": 3532,
+   "n": 3657
+  }
+ },
+ "bdrAtAuditSolos": {
+  "ok": 25,
+  "n": 28,
+  "unclear": 1,
+  "low": 0.7280377463234293,
+  "high": 0.9628823079452005,
+  "misses": {
+   "not_a_practice": 2,
+   "closed_or_moved": 1
+  },
+  "sellable": {
+   "independent_specialty": 12,
+   "independent_primary_or_multispecialty": 13
+  },
+  "claims": {
+   "ok": 2124,
+   "n": 2443
+  }
+ },
+ "bdrNow": {
+  "ok": 52,
+  "n": 59,
+  "unclear": 1,
+  "low": 0.7747612422658494,
+  "high": 0.94132491722086,
+  "misses": {
+   "not_a_practice": 4,
+   "hospital_academic_or_system": 2,
+   "closed_or_moved": 1
+  },
+  "sellable": {
+   "independent_specialty": 28,
+   "independent_primary_or_multispecialty": 24
+  },
+  "claims": {
+   "ok": 5656,
+   "n": 6100
+  }
+ },
+ "leftBdr": {
+  "ok": 0,
+  "n": 0,
+  "unclear": 0,
+  "low": 0,
+  "high": 0,
+  "misses": {},
+  "sellable": {},
+  "claims": {
+   "ok": 0,
+   "n": 0
+  }
+ },
+ "bdr_heldout": {
+  "ok": 52,
+  "n": 59,
+  "unclear": 1,
+  "low": 0.7747612422658494,
+  "high": 0.94132491722086,
+  "misses": {
+   "not_a_practice": 4,
+   "hospital_academic_or_system": 2,
+   "closed_or_moved": 1
+  },
+  "sellable": {
+   "independent_specialty": 28,
+   "independent_primary_or_multispecialty": 24
+  },
+  "claims": {
+   "ok": 5656,
+   "n": 6100
+  }
+ },
+ "soloLabels": {
+  "bdr_heldout": {
+   "independent_specialty": 12,
+   "not_a_practice": 2,
+   "independent_primary_or_multispecialty": 13,
+   "unclear": 1,
+   "closed_or_moved": 1
+  }
+ },
+ "groupsWithSources": {
+  "withSources": 31,
+  "groups": 31
+ },
+ "agreedFirstPass": 55,
+ "tiebreaks": 5,
+ "total": 60
+}
